@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MPD2KS2G)
 # API Building Practice Dataset
 
@@ -56,3 +57,6 @@ Build complex query endpoints:
 - `GET /api/instructors/:id/students` - Get all students taught by instructor
 - `GET /api/students/:id/schedule` - Get student's current schedule
 
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fdiUb9Ga)
+>>>>>>> 76b972cfefb7569e8d0767a2444fc2fdbaeb50af
